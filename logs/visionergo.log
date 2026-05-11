@@ -1,0 +1,153 @@
+2026-04-24 14:14:38,096 [INFO] core.monitor — ErgoMonitor baslatildi.
+2026-04-24 14:14:44,879 [INFO] core.camera — Camera stream started successfully at index 0.
+2026-04-24 14:14:44,879 [INFO] core.monitor — Izleme baslatildi.
+2026-04-24 14:17:04,472 [INFO] core.monitor — ErgoMonitor baslatildi.
+2026-04-24 14:17:09,402 [INFO] core.camera — Camera stream started successfully at index 0.
+2026-04-24 14:17:09,402 [INFO] core.monitor — Izleme baslatildi.
+2026-04-24 14:17:52,871 [INFO] core.posture — Durus referansi ayarlandi: Y=434
+2026-04-24 14:18:33,638 [INFO] core.camera — Camera stream stopped and resources released.
+2026-04-24 14:18:33,681 [INFO] core.monitor — ErgoMonitor durduruldu.
+2026-04-24 14:27:12,234 [INFO] core.blink — Goz cascade yuklendi: haarcascade_eye.xml
+2026-04-24 14:27:12,234 [INFO] core.monitor — ErgoMonitor baslatildi.
+2026-04-24 14:27:14,175 [INFO] core.camera — Kamera baslatildi: index=0, cozunurluk=(1280, 720)
+2026-04-24 14:27:14,177 [INFO] core.monitor — Izleme baslatildi.
+2026-04-24 14:27:14,179 [INFO] utils.session_logger — Oturum log dosyasi olusturuldu: logs\session_20260424_142714.csv
+2026-04-24 14:27:16,858 [INFO] core.camera — Kamera isi tamamlandi, izleme aktif.
+2026-04-24 14:27:17,217 [INFO] utils.alerts — [ALERT] Goz uyarisi: critical
+2026-04-24 14:27:23,173 [INFO] core.blink — Kirpma | BPM=1 | Toplam=1
+2026-04-24 14:27:25,837 [INFO] core.blink — Kirpma | BPM=2 | Toplam=2
+2026-04-24 14:27:26,058 [INFO] core.blink — Kirpma | BPM=3 | Toplam=3
+2026-04-24 14:27:26,576 [INFO] core.blink — Kirpma | BPM=4 | Toplam=4
+2026-04-24 14:27:28,173 [INFO] core.blink — Kirpma | BPM=5 | Toplam=5
+2026-04-24 14:27:29,035 [INFO] core.blink — Kirpma | BPM=6 | Toplam=6
+2026-04-24 14:27:29,338 [INFO] core.blink — Kirpma | BPM=7 | Toplam=7
+2026-04-24 14:27:30,328 [INFO] core.blink — Kirpma | BPM=8 | Toplam=8
+2026-04-24 14:27:50,248 [INFO] core.posture — Durus referansi ayarlandi: Y=297
+2026-04-24 14:27:52,105 [INFO] utils.alerts — [ALERT] Durus uyarisi: Up
+2026-04-24 14:27:59,363 [INFO] core.blink — Kirpma | BPM=9 | Toplam=9
+2026-04-24 14:28:10,057 [INFO] core.blink — Kirpma | BPM=10 | Toplam=10
+2026-04-24 14:28:13,016 [INFO] core.blink — Kirpma | BPM=11 | Toplam=11
+2026-04-24 14:28:15,111 [INFO] core.blink — Kirpma | BPM=12 | Toplam=12
+2026-04-24 14:28:15,353 [INFO] core.blink — Kirpma | BPM=13 | Toplam=13
+2026-04-24 14:28:15,899 [INFO] core.blink — Kirpma | BPM=14 | Toplam=14
+2026-04-24 14:28:22,127 [INFO] utils.alerts — [ALERT] Durus uyarisi: Bad
+2026-04-24 14:28:26,069 [INFO] utils.alerts — [ALERT] Goz uyarisi: low
+2026-04-24 14:28:41,196 [INFO] core.blink — Kirpma | BPM=7 | Toplam=15
+2026-04-24 14:30:50,302 [INFO] core.blink — Goz cascade yuklendi: haarcascade_eye.xml
+2026-04-24 14:30:50,306 [INFO] core.monitor — ErgoMonitor baslatildi.
+2026-04-24 14:30:51,605 [INFO] core.camera — Kamera baslatildi: index=0, cozunurluk=(1280, 720)
+2026-04-24 14:30:51,606 [INFO] core.monitor — Izleme baslatildi.
+2026-04-24 14:30:51,619 [INFO] utils.session_logger — Oturum log dosyasi olusturuldu: logs\session_20260424_143051.csv
+2026-04-24 14:30:54,207 [INFO] core.camera — Kamera isi tamamlandi, izleme aktif.
+2026-04-24 14:30:54,473 [INFO] utils.alerts — [ALERT] Goz uyarisi: critical
+2026-04-24 14:31:15,898 [INFO] core.blink — Kirpma | BPM=1 | Toplam=1
+2026-04-24 14:31:37,041 [INFO] core.blink — Kirpma | BPM=2 | Toplam=2
+2026-04-24 14:31:54,505 [INFO] utils.alerts — [ALERT] Goz uyarisi: critical
+2026-04-24 14:32:09,610 [INFO] core.blink — Kirpma | BPM=3 | Toplam=3
+2026-04-24 14:32:17,575 [INFO] core.blink — Kirpma | BPM=3 | Toplam=4
+2026-04-24 14:32:23,603 [INFO] core.posture — Durus referansi ayarlandi: Y=251
+2026-04-24 14:32:25,182 [INFO] core.blink — Kirpma | BPM=4 | Toplam=5
+2026-04-24 14:32:27,031 [INFO] utils.alerts — [ALERT] Durus uyarisi: Up
+2026-04-24 14:32:54,534 [INFO] utils.alerts — [ALERT] Goz uyarisi: critical
+2026-04-24 14:33:05,333 [INFO] utils.session_logger — Oturum log dosyasi kapatildi: logs\session_20260424_143051.csv
+2026-04-24 14:33:05,878 [INFO] core.camera — Kamera durduruldu ve kaynaklar serbest birakildi.
+2026-04-24 14:33:05,878 [INFO] core.monitor — ErgoMonitor durduruldu.
+2026-04-24 14:43:09,161 [INFO] core.blink — Goz cascade yuklendi: haarcascade_eye.xml
+2026-04-24 14:43:09,162 [INFO] core.monitor — ErgoMonitor baslatildi.
+2026-04-24 14:43:10,250 [INFO] core.camera — Kamera baslatildi: index=0, cozunurluk=(1280, 720)
+2026-04-24 14:43:10,250 [INFO] core.monitor — Izleme baslatildi.
+2026-04-24 14:43:10,251 [INFO] utils.session_logger — Oturum log dosyasi olusturuldu: logs\session_20260424_144310.csv
+2026-04-24 14:43:12,851 [INFO] core.camera — Kamera isi tamamlandi, izleme aktif.
+2026-04-24 14:43:13,232 [INFO] utils.alerts — [ALERT] Goz uyarisi: critical
+2026-04-24 14:43:16,833 [INFO] core.blink — Kirpma | BPM=1 | Toplam=1
+2026-04-24 14:43:17,425 [INFO] core.blink — Kirpma | BPM=2 | Toplam=2
+2026-04-24 14:43:36,292 [INFO] core.blink — Kirpma | BPM=3 | Toplam=3
+2026-04-24 14:43:36,697 [INFO] core.blink — Kirpma | BPM=4 | Toplam=4
+2026-04-24 14:43:47,450 [INFO] core.posture — Durus referansi ayarlandi: Y=346
+2026-04-24 14:43:48,551 [INFO] utils.alerts — [ALERT] Durus uyarisi: Up
+2026-04-24 14:44:13,250 [INFO] utils.alerts — [ALERT] Goz uyarisi: critical
+2026-04-24 14:44:18,555 [INFO] utils.alerts — [ALERT] Durus uyarisi: Up
+2026-04-24 14:44:18,985 [INFO] utils.session_logger — Oturum log dosyasi kapatildi: logs\session_20260424_144310.csv
+2026-04-24 14:44:19,506 [INFO] core.camera — Kamera durduruldu ve kaynaklar serbest birakildi.
+2026-04-24 14:44:19,507 [INFO] core.monitor — ErgoMonitor durduruldu.
+2026-04-24 14:49:24,689 [INFO] core.blink — Goz cascade yuklendi: haarcascade_eye.xml
+2026-04-24 14:49:24,691 [INFO] core.monitor — ErgoMonitor baslatildi.
+2026-04-24 14:49:26,068 [INFO] core.camera — Kamera baslatildi: index=0, cozunurluk=(1280, 720)
+2026-04-24 14:49:26,070 [INFO] core.monitor — Izleme baslatildi.
+2026-04-24 14:49:26,073 [INFO] utils.session_logger — Oturum log dosyasi olusturuldu: logs\session_20260424_144926.csv
+2026-04-24 14:49:28,671 [INFO] core.camera — Kamera isi tamamlandi, izleme aktif.
+2026-04-24 14:49:29,271 [INFO] utils.alerts — [ALERT] Goz uyarisi: critical
+2026-04-24 14:49:38,763 [INFO] core.blink — Kirpma | BPM=1 | Toplam=1
+2026-04-24 14:49:39,098 [INFO] core.blink — Kirpma | BPM=2 | Toplam=2
+2026-04-24 14:49:41,374 [INFO] core.blink — Kirpma | BPM=3 | Toplam=3
+2026-04-24 14:49:41,699 [INFO] core.blink — Kirpma | BPM=4 | Toplam=4
+2026-04-24 14:49:44,338 [INFO] core.blink — Kirpma | BPM=5 | Toplam=5
+2026-04-24 14:49:47,415 [INFO] core.blink — Kirpma | BPM=6 | Toplam=6
+2026-04-24 14:49:48,137 [INFO] core.blink — Kirpma | BPM=7 | Toplam=7
+2026-04-24 14:49:48,923 [INFO] core.blink — Kirpma | BPM=8 | Toplam=8
+2026-04-24 14:49:50,345 [INFO] core.blink — Kirpma | BPM=9 | Toplam=9
+2026-04-24 14:49:50,541 [INFO] core.blink — Kirpma | BPM=10 | Toplam=10
+2026-04-24 14:49:52,052 [INFO] core.blink — Kirpma | BPM=11 | Toplam=11
+2026-04-24 14:49:52,448 [INFO] core.blink — Kirpma | BPM=12 | Toplam=12
+2026-04-24 14:49:54,632 [INFO] core.blink — Kirpma | BPM=13 | Toplam=13
+2026-04-24 14:49:57,422 [INFO] core.posture — Durus referansi ayarlandi: Y=342
+2026-04-24 14:49:59,908 [INFO] utils.alerts — [ALERT] Durus uyarisi: Up
+2026-04-24 14:50:02,086 [INFO] core.blink — Kirpma | BPM=14 | Toplam=14
+2026-04-24 14:50:02,498 [INFO] core.blink — Kirpma | BPM=15 | Toplam=15
+2026-04-24 14:50:10,633 [INFO] core.blink — Kirpma | BPM=16 | Toplam=16
+2026-04-24 14:50:10,960 [INFO] core.blink — Kirpma | BPM=17 | Toplam=17
+2026-04-24 14:50:12,238 [INFO] core.blink — Kirpma | BPM=18 | Toplam=18
+2026-04-24 14:50:20,410 [INFO] core.blink — Kirpma | BPM=19 | Toplam=19
+2026-04-24 14:50:21,015 [INFO] core.blink — Kirpma | BPM=20 | Toplam=20
+2026-04-24 14:50:29,918 [INFO] utils.alerts — [ALERT] Durus uyarisi: Bad
+2026-04-24 14:50:46,535 [INFO] core.blink — Kirpma | BPM=16 | Toplam=21
+2026-04-24 14:50:50,576 [INFO] utils.alerts — [ALERT] Goz uyarisi: low
+2026-04-24 14:50:51,706 [INFO] core.blink — Kirpma | BPM=12 | Toplam=22
+2026-04-24 14:51:00,734 [INFO] utils.alerts — [ALERT] Durus uyarisi: Bad
+2026-04-24 14:51:08,252 [INFO] core.blink — Kirpma | BPM=8 | Toplam=23
+2026-04-24 14:51:09,350 [INFO] core.blink — Kirpma | BPM=9 | Toplam=24
+2026-04-24 14:51:09,686 [INFO] core.blink — Kirpma | BPM=10 | Toplam=25
+2026-04-24 14:51:10,194 [INFO] core.blink — Kirpma | BPM=11 | Toplam=26
+2026-04-24 14:51:12,861 [INFO] core.blink — Kirpma | BPM=9 | Toplam=27
+2026-04-24 14:51:30,783 [INFO] utils.alerts — [ALERT] Durus uyarisi: Bad
+2026-04-24 14:51:50,659 [INFO] utils.alerts — [ALERT] Goz uyarisi: critical
+2026-04-24 14:51:51,033 [INFO] core.blink — Kirpma | BPM=7 | Toplam=28
+2026-04-24 14:51:56,627 [INFO] core.blink — Kirpma | BPM=7 | Toplam=29
+2026-04-24 14:51:57,405 [INFO] core.blink — Kirpma | BPM=8 | Toplam=30
+2026-04-24 14:51:57,750 [INFO] core.blink — Kirpma | BPM=9 | Toplam=31
+2026-04-24 14:52:00,813 [INFO] utils.alerts — [ALERT] Durus uyarisi: Up
+2026-04-24 14:52:30,733 [INFO] utils.session_logger — Oturum log dosyasi kapatildi: logs\session_20260424_144926.csv
+2026-04-24 14:52:31,323 [INFO] core.camera — Kamera durduruldu ve kaynaklar serbest birakildi.
+2026-04-24 14:52:31,323 [INFO] core.monitor — ErgoMonitor durduruldu.
+2026-04-27 15:44:08,339 [INFO] core.blink — Goz cascade yuklendi: haarcascade_eye.xml
+2026-04-27 15:44:08,339 [INFO] core.monitor — ErgoMonitor baslatildi.
+2026-04-27 15:44:09,622 [INFO] core.camera — Kamera baslatildi: index=0, cozunurluk=(1280, 720)
+2026-04-27 15:44:09,622 [INFO] core.monitor — Izleme baslatildi.
+2026-04-27 15:44:09,624 [INFO] utils.session_logger — Oturum log dosyasi olusturuldu: logs\session_20260427_154409.csv
+2026-04-27 15:44:12,222 [INFO] core.camera — Kamera isi tamamlandi, izleme aktif.
+2026-04-27 15:44:14,481 [INFO] utils.alerts — [ALERT] Goz uyarisi: critical
+2026-04-27 15:44:30,440 [INFO] core.blink — Kirpma | BPM=1 | Toplam=1
+2026-04-27 15:44:39,543 [INFO] core.blink — Kirpma | BPM=2 | Toplam=2
+2026-04-27 15:44:47,744 [INFO] core.posture — Durus referansi ayarlandi: Y=399
+2026-04-27 15:44:48,644 [INFO] utils.alerts — [ALERT] Durus uyarisi: Up
+2026-04-27 15:45:14,486 [INFO] utils.alerts — [ALERT] Goz uyarisi: critical
+2026-04-27 15:45:18,654 [INFO] utils.alerts — [ALERT] Durus uyarisi: Bad
+2026-04-27 15:45:22,145 [INFO] core.blink — Kirpma | BPM=3 | Toplam=3
+2026-04-27 15:45:49,034 [INFO] core.blink — Kirpma | BPM=2 | Toplam=4
+2026-04-27 15:45:51,104 [INFO] utils.alerts — [ALERT] Durus uyarisi: Up
+2026-04-27 15:45:57,200 [INFO] core.blink — Kirpma | BPM=3 | Toplam=5
+2026-04-27 15:45:57,698 [INFO] core.blink — Kirpma | BPM=4 | Toplam=6
+2026-04-27 15:46:04,144 [INFO] core.blink — Kirpma | BPM=5 | Toplam=7
+2026-04-27 15:46:04,712 [INFO] core.blink — Kirpma | BPM=6 | Toplam=8
+2026-04-27 15:46:07,544 [INFO] core.blink — Kirpma | BPM=7 | Toplam=9
+2026-04-27 15:46:08,390 [INFO] core.blink — Kirpma | BPM=8 | Toplam=10
+2026-04-27 15:46:14,506 [INFO] utils.alerts — [ALERT] Goz uyarisi: low
+2026-04-27 15:46:21,182 [INFO] utils.alerts — [ALERT] Durus uyarisi: Up
+2026-04-27 15:46:51,183 [INFO] utils.alerts — [ALERT] Durus uyarisi: Up
+2026-04-27 15:47:03,006 [INFO] core.blink — Kirpma | BPM=5 | Toplam=11
+2026-04-27 15:47:03,390 [INFO] core.blink — Kirpma | BPM=6 | Toplam=12
+2026-04-27 15:47:04,277 [INFO] core.blink — Kirpma | BPM=6 | Toplam=13
+2026-04-27 15:47:05,734 [INFO] core.blink — Kirpma | BPM=6 | Toplam=14
+2026-04-27 15:47:06,749 [INFO] utils.session_logger — Oturum log dosyasi kapatildi: logs\session_20260427_154409.csv
+2026-04-27 15:47:07,255 [INFO] core.camera — Kamera durduruldu ve kaynaklar serbest birakildi.
+2026-04-27 15:47:07,255 [INFO] core.monitor — ErgoMonitor durduruldu.

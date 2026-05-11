@@ -1,0 +1,15 @@
+timestamp,elapsed_sec,posture_status,posture_score,deviation_px,bpm,alert_level,total_blinks
+2026-04-24 14:43:13,3.0,No Face,100,0,0,critical,0
+2026-04-24 14:43:18,8.2,No Ref,100,0,2,critical,2
+2026-04-24 14:43:23,13.2,No Face,100,0,2,critical,2
+2026-04-24 14:43:28,18.2,No Ref,100,0,2,critical,2
+2026-04-24 14:43:33,23.2,No Ref,100,0,2,critical,2
+2026-04-24 14:43:38,28.2,No Face,100,0,4,critical,4
+2026-04-24 14:43:43,33.2,No Face,100,0,4,critical,4
+2026-04-24 14:43:48,38.3,No Face,100,0,4,critical,4
+2026-04-24 14:43:53,43.3,Warning,78,18,4,critical,4
+2026-04-24 14:43:58,48.3,Good,97,-3,4,critical,4
+2026-04-24 14:44:03,53.3,Warning,80,16,4,critical,4
+2026-04-24 14:44:08,58.3,Good,94,-5,4,critical,4
+2026-04-24 14:44:13,63.3,Good,100,0,4,critical,4
+2026-04-24 14:44:18,68.3,Up,59,-33,2,critical,4
